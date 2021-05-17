@@ -1,0 +1,15 @@
+{
+  "name": "html_in",
+  "version": "1.0.0",
+  "dependencies": {
+   "mongodb": "*"
+  },
+  "description": "",
+  "main": "main.js", 
+  "scripts": {
+    
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
